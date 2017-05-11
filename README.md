@@ -13,7 +13,7 @@ npm run build
 ```
 * 运行
 ```
-server -s build
+serve -s build
 ```
 ***
 更多精彩内容或者与本人联系
