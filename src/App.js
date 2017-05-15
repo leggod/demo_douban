@@ -2,6 +2,7 @@ import React from "react";
 import './App.css';
 import IndexHead from './components/indexhead.js';
 import config from "./config/config";
+import { Link} from 'react-router';
 class App extends React.Component {
   constructor (props){
     super(props);
