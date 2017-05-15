@@ -1,7 +1,6 @@
 import React from "react";
 import './App.css';
 import IndexHead from './components/indexhead.js';
-import jQuery from 'jquery';
 import config from "./config/config";
 import { Link} from 'react-router';
 /*console.log(PropTypes)
