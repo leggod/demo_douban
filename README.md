@@ -1,7 +1,7 @@
 #### 起步
 * 下载
 ``` 
-git https://github.com/xinshani/demo_douban.git
+git clone https://github.com/xinshani/demo_douban.git
 ```
 * 安装依赖
 ```
