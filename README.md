@@ -11,6 +11,10 @@ npm install
 ```
 npm run build
 ```
+* 如果没装serve
+```
+npm install -g serve
+```
 * 运行
 ```
 serve -s build
