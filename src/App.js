@@ -2,11 +2,6 @@ import React from "react";
 import './App.css';
 import IndexHead from './components/indexhead.js';
 import config from "./config/config";
-import { Link} from 'react-router';
-/*console.log(PropTypes)
-propTypes({
-  config:PropTypes.object.isRequired,
-})*/
 class App extends React.Component {
   constructor (props){
     super(props);
