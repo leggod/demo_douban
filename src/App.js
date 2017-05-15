@@ -37,17 +37,6 @@ class App extends React.Component {
       </div>
     );
   }
-  componentDidMount() {
-    /*jQuery.ajax({
-      url:'https://api.douban.com/v2/movie/1292052',
-      type:'POST',
-      async:false,
-      dataType:'jsonp',
-      success:function(data){
-        console.log(data)
-      }
-    })*/
-  }
 }
 App.defaultProps={
     data:"豆瓣电影Top",
